@@ -1,6 +1,6 @@
 # URL Investigator
 
-**Objectives**
+**Objective**
 
 Understand the concept of URL, URI, and their components.
 
